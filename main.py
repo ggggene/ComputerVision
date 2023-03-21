@@ -26,3 +26,8 @@ cv2.imshow('dst3',dst3)
 # 마무리
 cv2.waitKey(0)
 cv2.destroyAllWindow()
+
+
+
+print("쉽지 않은 싸움이었다 ㅎ")
+
